@@ -1,4 +1,3 @@
-// WordCharacterCounter.java
 package com.example.lab2;
 
 public class WordCharacterCounter {
